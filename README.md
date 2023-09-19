@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there i'm Fahrul 👋
 
 <!--
 **FahrulRoziAbdi/FahrulRoziAbdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Table of contents
+<!--ts-->
+   * [Connect](#connect)
+<!--te-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ## 🔗Connect
+<p>
+  <a href="https://www.linkedin.com/in/fahrulroziabdibahari/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://github.com/FahrulRoziAbdi"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/></a>
+  <a href="https://www.youtube.com/channel/UC5WYqZAvk27dud42B3N13Kg" target="blank"><img src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube"/></a>
+</p>
+
+
